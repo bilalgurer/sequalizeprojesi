@@ -1,0 +1,10 @@
+{
+  "myconnect": {
+    "username": "postgres",
+    "password": "bg1630",
+    "database": "deneme",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+  }
+}
